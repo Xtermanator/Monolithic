@@ -1,0 +1,39 @@
+{
+	"MonolithicEnineOverview1582606466168": {
+		"name": "Monolithic Enine Overview",
+		"items": [
+			{
+				"id": "item1582606486432312",
+				"name": "Core Engine",
+				"state": ""
+			},
+			{
+				"id": "item1582606490149310",
+				"name": "Default Content",
+				"state": ""
+			},
+			{
+				"id": "item1582606491478107",
+				"name": "ECS",
+				"state": ""
+			},
+			{
+				"id": "item1582606493696540",
+				"name": "Input",
+				"state": ""
+			},
+			{
+				"id": "item1582606496653816",
+				"name": "Physics",
+				"state": ""
+			},
+			{
+				"id": "item1582606501973436",
+				"name": "Utilities",
+				"state": ""
+			}
+		],
+		"vis": "true",
+		"pin": "false"
+	}
+}
